@@ -177,6 +177,7 @@ import seaborn as sns
 
 # %% 散布図
 import numpy.random as random
+import numpy as np
 
 #　シード値の固定
 random.seed(0)
